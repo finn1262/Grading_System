@@ -82,11 +82,5 @@ Open http://localhost:5000 (or the configured port) to access the app.
 - Enter grades and review computed averages
 - Export or print reports as needed
 
-## Project Structure
-
-- `src/` — application source code
-- `tests/` — unit and integration tests
-- `docs/` — documentation and design notes
-- `scripts/` — helper scripts (database initialization, sample data)
 
 
