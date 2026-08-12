@@ -1,4 +1,4 @@
-# Grading_System
+# Grading_System C++
 
 Grading_System is a simple application for managing student grades, assignments, and courses. It provides tools to input scores, calculate averages, produce reports, and (optionally) export results. This repository contains the source code, tests, and utilities required to run and maintain the system.
 
@@ -89,24 +89,4 @@ Open http://localhost:5000 (or the configured port) to access the app.
 - `docs/` — documentation and design notes
 - `scripts/` — helper scripts (database initialization, sample data)
 
-Update these paths to match the repository layout.
 
-## Contributing
-
-Contributions are welcome. Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m "Add my feature"`
-4. Push to your fork: `git push origin feature/my-feature`
-5. Open a Pull Request describing your changes
-
-Please include tests and update documentation when appropriate.
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details (or replace with the appropriate license).
-
-## Contact
-
-If you have questions or need help, open an issue in the repository or contact the maintainer.
