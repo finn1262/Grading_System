@@ -22,6 +22,5 @@ int main()
     grade = sum / 2;
 
     cout << "Final Grade: " << grade << endl;
-
     return 0;
 }
